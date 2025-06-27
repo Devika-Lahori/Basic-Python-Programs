@@ -21,3 +21,16 @@ Displays whether the number is even or odd.
 This program uses a for loop to go through numbers 1 to 50.
 Accumulates the total sum in a variable.
 Displays the sum after the loop ends.
+
+# ass3_task1: Calculate Factorial Using a Function 
+In this program a function factorial(n) is defined.
+Inside the function, a loop is used to calculate the factorial of the number.
+The result is returned to the caller.
+
+# ass3_task2: Using the Math Module for Calculations
+This programs ask the user to enter a integer number.
+Imports the built-in math module.
+Uses the following math functions: math.sqrt() for square root, math.log() for natural log, math.sin() for sine (in radians)
+Prints all results in a clean format.
+
+
