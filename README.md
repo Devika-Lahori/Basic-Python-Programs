@@ -33,4 +33,15 @@ Imports the built-in math module.
 Uses the following math functions: math.sqrt() for square root, math.log() for natural log, math.sin() for sine (in radians)
 Prints all results in a clean format.
 
+# ass4_task1: Read a File and Handle Errors
+This program attempts to open and read the contents of a text file named 'sample.txt'.
+If the file exists, it reads and prints each line with line numbers.
+If the file does not exist, it catches the FileNotFoundError and prints an appropriate error message.
+
+# ass4_task2: Write, Append, and Read from a File
+This program takes input from the user and writes it to a file named 'output.txt'.
+It then prompts the user for additional input to append to the same file.
+After writing and appending, the program reads and displays the final content of the file.
+
+
 
