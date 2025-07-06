@@ -43,5 +43,15 @@ This program takes input from the user and writes it to a file named 'output.txt
 It then prompts the user for additional input to append to the same file.
 After writing and appending, the program reads and displays the final content of the file.
 
+# ass5_task1: Retrieve Student Marks from a Dictionary
+This program defines a dictionary with student names as keys and their marks as values.
+It asks the user to input a student's name.
+If the name exists in the dictionary, it prints the corresponding marks.
+If the name is not found, it displays a 'Student not found' message.
+
+# ass5_task2: Demonstrate List Slicing and Reversal
+This program creates a list of numbers from 1 to 10.
+It extracts the first five elements using list slicing and reverse it using reverse function.
+The program prints the original list, the extracted list, and the reversed result in a clear format.
 
 
